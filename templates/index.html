@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RAG Chatbot - Login</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>RAG-Powered Chatbot</h1>
+        <p>Sign in with Google to access your documents and start chatting</p>
+        <a href="{{ url_for('login') }}" class="btn btn-google">Sign in with Google</a>
+    </div>
+</body>
+</html>
