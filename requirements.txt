@@ -1,0 +1,12 @@
+flask==2.3.3
+flask-sqlalchemy==3.0.5
+flask-login==0.6.2
+google-auth==2.22.0
+google-auth==2.22.0
+google-api-python-client==2.104.0
+google-generativeai==0.3.2
+python-dotenv==1.0.0
+sentence-transformers==2.2.2
+numpy==1.24.3
+chromadb==0.4.15
+faiss-cpu==1.7.4
